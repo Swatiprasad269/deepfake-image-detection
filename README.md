@@ -34,13 +34,10 @@ cd deepfake-image-detection
 pip install -r requirements.txt
 streamlit run app.py
 
-## 📸 Screenshots
+📸 Screenshots
 
-### Upload Screen
-![Upload](upload_screen.png)
-
-### Real Image Prediction
+Real Image Prediction
 ![Real](real_result.png)
 
-### Fake Image Prediction
+Fake Image Prediction
 ![Fake](fake_result.png)
