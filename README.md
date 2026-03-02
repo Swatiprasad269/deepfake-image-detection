@@ -41,3 +41,10 @@ Real Image Prediction
 
 Fake Image Prediction
 ![Fake](fake_result.png)
+
+
+📂 Dataset
+The dataset used for training is large and not included in the repository.
+You can access it here:
+
+👉 https://drive.google.com/file/d/16fBFkHGj3w0PwcFMRor9k-NtY0i9PcJ8/view?usp=sharing
